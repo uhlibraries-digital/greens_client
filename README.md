@@ -1,6 +1,6 @@
 # Greens Client
 
-A ruby gem to connect to the Greens minter to manage ARKs
+A ruby gem to connect to the [Greens](https://github.com/uhlibraries-digital/greens) minter to manage ARKs
 
 ## Installation
 

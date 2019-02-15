@@ -9,10 +9,10 @@ Gem::Specification.new do |gem|
   gem.authors     = ["Sean Watkins"]
   gem.email       = ["slwatkins@uh.edu"]
   
-  gem.homepage    = "https://github.com/uhlibraries-digital"
+  gem.homepage    = "https://github.com/uhlibraries-digital/greens_client"
   
   gem.summary     = "This is the gemspec for the Greens Client tool."
-  gem.description = "A gem to connect to the Greens minter to manage ARKs"
+  gem.description = "A ruby gem to connect to the Greens minter to manage ARKs"
   gem.license     = "Apache 2.0"
 
   gem.files = Dir["{lib}/**/*", "LICENSE.txt", "Rakefile", "README.md"]
