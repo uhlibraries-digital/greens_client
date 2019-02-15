@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
 
   gem.files = Dir["{lib}/**/*", "LICENSE.txt", "Rakefile", "README.md"]
 
-  gem.add_runtime_dependency 'flexirest', '>= 1.3.33'
+  gem.add_runtime_dependency 'flexirest', '1.3.33'
 end
